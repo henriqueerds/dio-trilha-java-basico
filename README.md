@@ -5,7 +5,7 @@ Projeto Java Básico.
 [Henrique Erinaldo](https://github.com/henriqueerds/dio-trilha-java-basico)
 
 ## Desafio
-Projeto Java Básico que receberá dados via terminal contendo as características de conta bancária ficticia e recebendo uma resposta via terminal.
+Projeto Java Básico que receberá dados via terminal contendo as características de conta bancária fictícia e recebendo uma resposta via terminal.
 
 1. Foi criado uma classe `ContaBranco.java` onde recebera dados via terminal digitado pelo usuário, contendo as características de conta em banco conforme atributos abaixo:
 2. Na classe `ContaTerminal.java` contem os atributos e os Getters e Setters onde será chamado pela classe `Main`.
