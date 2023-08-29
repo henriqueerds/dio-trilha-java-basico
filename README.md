@@ -29,6 +29,6 @@ Scanner scanner = New Scanner();
 3.Depois de todas as informações terem sido inseridas e rodar o código, o sistema exibirá a seguinte mensagem:
 "Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".
 
-Os campos em [ ] aparecerão os dados que inseridas pelos usuários.
+Os campos em [ ] aparecerão os dados que foram inseridas pelos usuários.
 
 
